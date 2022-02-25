@@ -1,2 +1,2 @@
 # OneTimePad
-Decrypting cipher texts that uses One Time Pad
+Decrypting cipher texts that use One Time Pad
